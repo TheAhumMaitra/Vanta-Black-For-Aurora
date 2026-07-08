@@ -1,0 +1,22 @@
+name = "Vanta Black"
+version = "0.1.0"
+
+authors = [
+    "Ahum Maitra (@TheAhumMaitra) theahummaitra@gmail.com",
+]
+
+license = "MIT"
+wallpapers_sources = ["https://github.com/rishav12s/Vanta-Black/tree/Vanta-Black/Configs/.config/hyde/themes/Vanta%20Black/wallpapers"]
+repo_url = "https://github.com/TheAhumMaitra/Vanta-Black-For-Aurora"
+
+[gtk]
+theme_name = "Vanta-Black"
+icon_theme = "Yaru-blue"
+
+[vscode]
+publisher = "MustafaManhal"
+extension_name = "vanta-black"
+theme_name = "Black Minimal"
+
+[zed]
+theme_name = "Vanta Black"
